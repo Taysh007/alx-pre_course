@@ -1,1 +1,1 @@
-#!bin/bash \nechoALX School is so cool
+#!/bin/bash \necho "ALX school is so cool!"
